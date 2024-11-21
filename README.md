@@ -12,7 +12,6 @@ Welcome to the Dungeon Game! This is an exciting and challenging game where you 
 - [Level System](#level-system)
 - [Functionality Breakdown](#functionality-breakdown)
 - [Running the Game on Google Colab](#running-the-game-on-google-colab)
-- [License](#license)
 
 ---
 
