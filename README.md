@@ -8,7 +8,6 @@ Welcome to the Dungeon Game! This is an exciting and challenging game where you 
 - [Gameplay Instructions](#gameplay-instructions)
 - [Game Logic](#game-logic)
 - [Monsters and Obstacles](#monsters-and-obstacles)
-- [Pathfinding Algorithms](#pathfinding-algorithms)
 - [Level System](#level-system)
 - [Functionality Breakdown](#functionality-breakdown)
 - [Running the Game on Google Colab](#running-the-game-on-google-colab)
@@ -86,16 +85,6 @@ The dungeon is a grid-based layout where different elements are placed, includin
 - **Obstacles**: Obstacles like fire (`🔥`), stones (`🪨`), and traps (`🛑`) are scattered throughout the grid. Players must navigate around these to avoid getting stuck.
 
 - **Treasure**: The treasure is placed in a reachable location on the grid, and players must reach it before the monsters do.
-
----
-
-## Pathfinding Algorithms
-
-- **BFS (Breadth-First Search)**: Used in Level 1. It guarantees the shortest path but does not consider optimal routes or obstacles.
-  
-- **A***: Used in Level 2. A* uses both distance and heuristic to find the shortest and most efficient path to the target.
-
-- **Reinforcement Learning**: Used in Level 3 and higher. The monster learns from its experiences, optimizing its movement strategies using a Q-table.
 
 ---
 
