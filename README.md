@@ -23,6 +23,8 @@ The Dungeon Game takes you through multiple levels of increasing difficulty. Eac
 - A treasure that the player must reach before the monsters do.
 
 Your movement is limited by a number of moves per level, and you must avoid monsters while navigating through the dungeon's obstacles.
+![image](https://github.com/user-attachments/assets/c8260f10-baf7-4e20-a5c4-bf90d81ae408)
+
 
 ---
 
